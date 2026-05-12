@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kae" height="30" width="40" /></a>
+<a href="https://twitter.com/Kae" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kae" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/emmanuel (kai) haro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emmanuel (kai) haro" height="30" width="40" /></a>
 <a href="https://instagram.com/emmanuel_kaxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emmanuel_kaxi" height="30" width="40" /></a>
 <a href="https://www.topcoder.com/members/00100" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="00100" height="30" width="40" /></a>
